@@ -59,6 +59,6 @@ function calculadora(n1, n2, op)
 {
     return op(n1, n2);
 }
-
+ 
 console.log( calculadora(10, 2, sub) );
 console.log( calculadora(10, 2, soma) );
