@@ -57,4 +57,68 @@
 
 // ex 8
 
-let ganhoHora = 10;
+// let ganhoHora = 10;
+// let horas = 8;
+
+// console.log(ganhoHora * horas);
+
+// ex 9 
+
+// let F = 72;
+
+// let C = 5 * (F-32) / 9;
+
+// console.log(C);
+
+// ex 10 
+
+// let C = 30;
+
+// let F = 1.8 * C + 32;
+
+// console.log(F);
+
+// ex 11
+
+// let int1 = 2;
+// let int2 = 4;
+// let real = 0.50;
+
+// if (int1, int2)
+// {
+//     let res1 = int1 * 2 + int2 / 2;
+//     console.log(res1);
+// }
+
+// if (real, int1)
+// {
+//     let res2 = int1 * 3 + real;
+//     console.log(res2); 
+// }
+
+// console.log(real ** 3);
+
+
+// ex 12
+
+// let altura = 1.82;
+// let pesoIdeal = (72.7*altura) - 58;
+
+// console.log(pesoIdeal);
+
+// ex 13
+
+// let alturaH = 1.82;
+// let pesoIdealH = (72.7 * alturaH) - 58;
+
+// console.log(pesoIdealH);
+
+// let alturaM = 1.82;
+// let pesoIdealM = (62.1 * alturaM) - 44.7;
+
+// console.log(pesoIdealM);
+
+// ex 14
+
+let peso = 60;
+
